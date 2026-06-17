@@ -42,8 +42,8 @@ DEBUG=true
 # Database Configuration
 DB_HOST=127.0.0.1
 DB_PORT=5432
-DB_USER=postgres
-DB_PASSWORD=postgresql
+DB_USER=your_postgres_user
+DB_PASSWORD=your_postgres_password
 DB_NAME=user_age_db
 ```
 
