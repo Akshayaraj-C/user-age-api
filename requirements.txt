@@ -1,0 +1,7 @@
+fastapi[standard]
+scalar-fastapi
+pydantic-settings
+sqlmodel
+asyncpg
+pytest
+uvicorn
